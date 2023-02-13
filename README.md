@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F70E&center=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;Passionate+Gamer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I am an University Student at Heilbronn University of Applied Sciences studying Business CS. I love to Code, Design, Innovate and Experiment. I am constantly trying to explore new topics and love to take up new challenges and learn new skills. I like to solve problems related to IT as I like to think that there is always a solution to a problem.</h4>
+<h4 align="center">I am a Full Stack Developer at Devla GmbH in Stuttgart, Germany. I am also studying Business CS at the University of Applied Sciences Heilbronn. I love to Code, Design, Innovate and Experiment. I am constantly trying to explore new topics and love to take up new challenges and learn new skills. I like to solve problems related to IT as I like to think that there is always a solution to a problem.</h4>
 <br>
 <p align="center"> </p>
 
