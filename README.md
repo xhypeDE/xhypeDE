@@ -176,14 +176,6 @@
 
 <br/>
 
-## 🧑🏽‍💻 Exmaples of my Work
-<h3>SW Solution - German Copywriting Agency</h3>
-<a href="https://sw-solution.de/">https://sw-solution.de/</a>
-<p>Developed a web application that interconnects various business processes like, project management, CRM, financial and lead generation into a single autonomous platform.</p>
-
-<h3>myWorkTracker - Time logging tool</h3>
-<a href="https://myworktracker.wirecoders.com">https://myworktracker.wirecoders.com</a>
-<p>Development of a web system for a university project that represents a commercial solution for small businesses to track employee working hours, primarily from home offices, generating simplified payroll, displaying personnel costs overview and projected costs.</p>
 
 
 ## 🙋‍♀️ Let's Connect
